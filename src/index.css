@@ -116,3 +116,18 @@ main{
 #Spanish{
   background-image: url('/spanish.png');
 }
+
+.chat--form{
+  display: flex;
+  width: 80%;
+  height: 67px;
+  border-radius: 10px;
+  border: 1.5px solid #586E88;
+  background: #F5F5F5;
+  position: absolute;
+  bottom: 90px;
+  left: 0;
+  right: 0;
+  margin-left:auto;
+  margin-right: auto;
+}
